@@ -1,12 +1,11 @@
 {
   "name": "Audios Islamique",
   "short_name": "Audios Islam",
-  "description": "Application complète de Coran et récits des prophètes par Ndiaye Adama",
+  "description": "Coran et Récits des Prophètes par Ndiaye Adama",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
-  "orientation": "portrait",
   "icons": [
     {
       "src": "audios-islamique-icon.png",
