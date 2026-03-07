@@ -1,17 +1,22 @@
 {
-  "name": "Audios islamique",
+  "name": "Audios Islamique",
   "short_name": "Audios Islam",
-  "description": "La meilleure plateforme de streaming coranique gratuite.",
-  "start_url": "/",
+  "description": "Application complète de Coran et récits des prophètes par Ndiaye Adama",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "audios-islamique-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "audios-islamique-icon.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
